@@ -1,4 +1,4 @@
-![logo](./images.jpg)
+![logo](https://github.com/Rayyan7878/Rayyan7878/blob/main/githubban.gif)
 <h1 align="center">Hi 👋, I'm Areeba Tahir</h1>
 <h3 align="center">I'm a skilled Web Developer specializing in creating dynamic, user-centric digital solutions with expertise in design and productivity tools.</h3>
 
